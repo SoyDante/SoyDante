@@ -1,0 +1,5 @@
+- 👋 Hi, I'm @SoyDante
+- 👀 I’m interested in CyberSecurity
+- 🌱 I’m currently learning JavaScript, Python
+- 💞️ I’m looking to collaborate on company's
+- 📫 How to reach me: +54 9 11 7361-4437
